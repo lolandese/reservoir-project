@@ -13,7 +13,7 @@
     "composer/installers": "^1.0",
     "cweagans/composer-patches": "~1.0",
     "drupal-composer/drupal-scaffold": "^2.0.0",
-    "lolandese/reservoir": "8.x-1.x"
+    "lolandese/reservoir": "1.x-dev"
   },
   "extra": {
     "installer-paths": {
